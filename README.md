@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=repsacl&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -34,6 +28,12 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=repsacl&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
